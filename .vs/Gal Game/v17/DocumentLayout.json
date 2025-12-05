@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Gal Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Gal Game\\assets\\scripts\\game\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\gal game\\assets\\scripts\\game\\skipcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\skipcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Gal Game\\assets\\scripts\\game\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Gal Game\\assets\\scripts\\menu\\gamebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\gamebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Gal Game\\assets\\scripts\\game\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Gal Game\\assets\\scripts\\game\\shakecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\shakecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Gal Game\\assets\\scripts\\menu\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Gal Game\\assets\\scripts\\menu\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1A4DF-373C-7DF8-3620-6E729A5FEDAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "backGround.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Menu\\backGround.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\backGround.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Menu\\backGround.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\backGround.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T22:12:37.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShakeCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\ShakeCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\ShakeCamera.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\ShakeCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\ShakeCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:10:19.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OptionsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Menu\\OptionsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\OptionsMenu.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Menu\\OptionsMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\OptionsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:25:04.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\Page.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Page.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\Page.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:44:20.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gameButton.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Menu\\gameButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\gameButton.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Menu\\gameButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\gameButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T22:16:55.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\mainController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\mainController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\mainController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\mainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:42:20.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkipCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\SkipCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\SkipCanvas.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\SkipCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\SkipCanvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T13:52:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buttons.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\Buttons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Buttons.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Gal Game\\Assets\\Scripts\\Game\\Buttons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Buttons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T22:00:12.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
